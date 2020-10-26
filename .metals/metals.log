@@ -1,0 +1,10 @@
+2020.10.21 22:28:15 INFO  started: Metals version 0.9.4 in workspace '/mnt/e/Bill/Documents/GitHubProjects/flutter_tutorial' for client vscode.
+2020.10.21 22:28:22 INFO  time: initialize in 6.48s
+2020.10.21 22:28:37 WARN  no build tool detected in workspace '/mnt/e/Bill/Documents/GitHubProjects/flutter_tutorial'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 21, 2020 10:29:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Oct 21, 2020 10:29:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Oct 21, 2020 10:32:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.10.21 22:34:22 INFO  shutting down Metals
